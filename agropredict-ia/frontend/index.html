@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AgroPredict IA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page-shell">
+    <section class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">IA agrícola para Boyacá y Cundinamarca</p>
+        <h1>AgroPredict IA</h1>
+        <p class="hero-copy">
+          Recomienda cultivos a partir de pH, humedad, temperatura y tipo de suelo
+          usando un modelo de Machine Learning entrenado con datos agrícolas realistas.
+        </p>
+        <div class="hero-actions">
+          <a href="#predictor" class="button primary">Probar predictor</a>
+          <a href="#about" class="button secondary">Ver solución</a>
+        </div>
+      </div>
+
+      <aside class="signal-panel" aria-label="Resumen del modelo">
+        <div>
+          <span class="metric">3</span>
+          <p>Cultivos recomendados: papa, maíz y trigo</p>
+        </div>
+        <div>
+          <span class="metric">1200</span>
+          <p>Registros sintéticos para entrenamiento local</p>
+        </div>
+        <div>
+          <span class="metric">RF</span>
+          <p>RandomForestClassifier conectado por FastAPI</p>
+        </div>
+      </aside>
+    </section>
+
+    <section id="about" class="section-grid">
+      <div class="section-heading">
+        <p class="eyebrow">Cómo funciona</p>
+        <h2>De condiciones del suelo a una decisión accionable</h2>
+      </div>
+      <div class="info-grid">
+        <article class="info-card">
+          <span>01</span>
+          <h3>Captura datos</h3>
+          <p>El agricultor ingresa variables básicas del lote: pH, humedad, temperatura y textura del suelo.</p>
+        </article>
+        <article class="info-card">
+          <span>02</span>
+          <h3>Consulta la API</h3>
+          <p>El frontend envía la solicitud a FastAPI, donde el modelo procesa las características agrícolas.</p>
+        </article>
+        <article class="info-card">
+          <span>03</span>
+          <h3>Recibe recomendación</h3>
+          <p>La app muestra el cultivo con mejor ajuste entre papa, maíz y trigo.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="predictor" class="predictor-layout">
+      <div class="predictor-copy">
+        <p class="eyebrow">Predictor</p>
+        <h2>Evalúa un lote agrícola</h2>
+        <p>
+          Ingresa las condiciones actuales del suelo y obtén una recomendación inmediata
+          para orientar la siembra.
+        </p>
+      </div>
+
+      <form class="predictor-form" id="predictionForm">
+        <label>
+          pH del suelo
+          <input id="ph" name="ph" type="number" min="0" max="14" step="0.1" placeholder="Ej. 5.5" required>
+        </label>
+
+        <label>
+          Humedad (%)
+          <input id="humedad" name="humedad" type="number" min="0" max="100" step="0.1" placeholder="Ej. 80" required>
+        </label>
+
+        <label>
+          Temperatura (°C)
+          <input id="temperatura" name="temperatura" type="number" min="-20" max="60" step="0.1" placeholder="Ej. 14" required>
+        </label>
+
+        <label>
+          Tipo de suelo
+          <select id="tipo_suelo" name="tipo_suelo" required>
+            <option value="">Selecciona una opción</option>
+            <option value="0">Arenoso</option>
+            <option value="1">Arcilloso</option>
+            <option value="2">Franco</option>
+          </select>
+        </label>
+
+        <button class="submit-button" id="submitButton" type="submit">
+          Recomendar cultivo
+        </button>
+
+        <p class="form-message" id="formMessage" role="status"></p>
+      </form>
+
+      <section class="result-history hidden" id="resultHistory" aria-live="polite">
+        <div class="result-history-heading">
+          <p class="result-label">Historial de recomendaciones</p>
+          <h3>Consultas realizadas</h3>
+        </div>
+        <div class="results-list" id="resultsList"></div>
+      </section>
+
+      <div class="recommendation-source hidden" aria-hidden="true">
+        <div class="crop-recommendations">
+          <section class="recommendation-panel hidden" data-crop="Papa">
+            <h4>Recomendaciones para papa</h4>
+            <ul>
+              <li>Mantener buena humedad del suelo sin generar encharcamientos.</li>
+              <li>Priorizar suelos sueltos, profundos y con buen drenaje.</li>
+              <li>Realizar aporque para proteger tubérculos y mejorar aireación.</li>
+              <li>Monitorear tizón tardío y rotar cultivos para reducir presión sanitaria.</li>
+            </ul>
+          </section>
+
+          <section class="recommendation-panel hidden" data-crop="Maíz">
+            <h4>Recomendaciones para maíz</h4>
+            <ul>
+              <li>Sembrar en suelos francos con buena disponibilidad de materia orgánica.</li>
+              <li>Garantizar humedad estable durante germinación, floración y llenado de grano.</li>
+              <li>Aplicar fertilización balanceada con énfasis en nitrógeno según análisis de suelo.</li>
+              <li>Controlar malezas temprano para evitar competencia en las primeras semanas.</li>
+            </ul>
+          </section>
+
+          <section class="recommendation-panel hidden" data-crop="Trigo">
+            <h4>Recomendaciones para trigo</h4>
+            <ul>
+              <li>Evitar exceso de humedad para disminuir riesgo de enfermedades foliares.</li>
+              <li>Usar semilla de buena calidad y densidad de siembra uniforme.</li>
+              <li>Favorecer suelos con drenaje adecuado y pH cercano a neutro.</li>
+              <li>Monitorear roya y programar controles oportunos si aparecen síntomas.</li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

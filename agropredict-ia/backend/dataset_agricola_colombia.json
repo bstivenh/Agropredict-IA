@@ -1,0 +1,9602 @@
+[
+  {
+    "ph": 6.21,
+    "humedad": 57.5,
+    "temperatura": 21.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.04,
+    "humedad": 80.7,
+    "temperatura": 11.2,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.22,
+    "humedad": 83.7,
+    "temperatura": 17.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.72,
+    "humedad": 61.0,
+    "temperatura": 24.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.38,
+    "humedad": 53.2,
+    "temperatura": 24.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.18,
+    "humedad": 78.4,
+    "temperatura": 17.3,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.14,
+    "humedad": 66.8,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.88,
+    "humedad": 60.7,
+    "temperatura": 22.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.06,
+    "humedad": 51.0,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.98,
+    "humedad": 67.7,
+    "temperatura": 21.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.64,
+    "humedad": 56.2,
+    "temperatura": 21.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.25,
+    "humedad": 53.9,
+    "temperatura": 18.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.98,
+    "humedad": 56.4,
+    "temperatura": 19.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.9,
+    "humedad": 65.7,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.79,
+    "humedad": 83.0,
+    "temperatura": 14.8,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.27,
+    "humedad": 67.3,
+    "temperatura": 22.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.91,
+    "humedad": 62.2,
+    "temperatura": 19.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.93,
+    "humedad": 41.7,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.86,
+    "humedad": 51.4,
+    "temperatura": 14.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.14,
+    "humedad": 50.5,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.14,
+    "humedad": 66.1,
+    "temperatura": 10.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.36,
+    "humedad": 69.0,
+    "temperatura": 17.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.56,
+    "humedad": 58.2,
+    "temperatura": 24.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.76,
+    "humedad": 53.2,
+    "temperatura": 17.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.46,
+    "humedad": 63.1,
+    "temperatura": 18.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.88,
+    "humedad": 69.2,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.12,
+    "humedad": 52.0,
+    "temperatura": 14.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.16,
+    "humedad": 67.7,
+    "temperatura": 10.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.92,
+    "humedad": 65.1,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.25,
+    "humedad": 55.3,
+    "temperatura": 20.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.7,
+    "humedad": 49.1,
+    "temperatura": 12.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.22,
+    "humedad": 62.2,
+    "temperatura": 23.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.09,
+    "humedad": 59.5,
+    "temperatura": 18.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.05,
+    "humedad": 59.1,
+    "temperatura": 25.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.35,
+    "humedad": 57.5,
+    "temperatura": 18.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.86,
+    "humedad": 72.5,
+    "temperatura": 12.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.44,
+    "humedad": 52.1,
+    "temperatura": 22.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.06,
+    "humedad": 51.5,
+    "temperatura": 13.6,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.61,
+    "humedad": 72.8,
+    "temperatura": 13.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.11,
+    "humedad": 69.3,
+    "temperatura": 25.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.14,
+    "humedad": 53.2,
+    "temperatura": 16.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.86,
+    "humedad": 55.6,
+    "temperatura": 19.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.03,
+    "humedad": 60.2,
+    "temperatura": 18.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.17,
+    "humedad": 46.7,
+    "temperatura": 16.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.15,
+    "humedad": 70.0,
+    "temperatura": 11.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.48,
+    "humedad": 88.5,
+    "temperatura": 14.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.71,
+    "humedad": 65.8,
+    "temperatura": 10.7,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.94,
+    "humedad": 54.0,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.15,
+    "humedad": 77.0,
+    "temperatura": 13.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.72,
+    "humedad": 52.7,
+    "temperatura": 23.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.93,
+    "humedad": 82.6,
+    "temperatura": 15.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.86,
+    "humedad": 53.0,
+    "temperatura": 23.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.17,
+    "humedad": 68.3,
+    "temperatura": 13.0,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.98,
+    "humedad": 89.4,
+    "temperatura": 14.3,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.21,
+    "humedad": 86.4,
+    "temperatura": 17.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.35,
+    "humedad": 62.0,
+    "temperatura": 22.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.34,
+    "humedad": 53.9,
+    "temperatura": 21.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.14,
+    "humedad": 53.2,
+    "temperatura": 21.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.05,
+    "humedad": 75.9,
+    "temperatura": 14.2,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.3,
+    "humedad": 63.1,
+    "temperatura": 23.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.82,
+    "humedad": 77.3,
+    "temperatura": 17.3,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.18,
+    "humedad": 42.6,
+    "temperatura": 14.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.96,
+    "humedad": 51.5,
+    "temperatura": 24.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.77,
+    "humedad": 88.5,
+    "temperatura": 12.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.84,
+    "humedad": 75.2,
+    "temperatura": 12.4,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.45,
+    "humedad": 51.6,
+    "temperatura": 18.9,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.23,
+    "humedad": 44.4,
+    "temperatura": 19.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.94,
+    "humedad": 40.8,
+    "temperatura": 21.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.72,
+    "humedad": 69.0,
+    "temperatura": 21.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.6,
+    "humedad": 88.6,
+    "temperatura": 10.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.5,
+    "humedad": 73.5,
+    "temperatura": 13.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.97,
+    "humedad": 57.5,
+    "temperatura": 23.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.46,
+    "humedad": 54.1,
+    "temperatura": 17.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.02,
+    "humedad": 56.0,
+    "temperatura": 22.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.17,
+    "humedad": 72.2,
+    "temperatura": 16.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.39,
+    "humedad": 57.7,
+    "temperatura": 25.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.46,
+    "humedad": 42.7,
+    "temperatura": 13.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.03,
+    "humedad": 54.4,
+    "temperatura": 22.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.97,
+    "humedad": 42.2,
+    "temperatura": 17.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.73,
+    "humedad": 41.3,
+    "temperatura": 13.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.03,
+    "humedad": 71.9,
+    "temperatura": 11.8,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.21,
+    "humedad": 61.1,
+    "temperatura": 25.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.82,
+    "humedad": 68.4,
+    "temperatura": 17.7,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.42,
+    "humedad": 81.6,
+    "temperatura": 16.0,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.59,
+    "humedad": 69.2,
+    "temperatura": 23.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.98,
+    "humedad": 56.4,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.73,
+    "humedad": 53.2,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.37,
+    "humedad": 66.8,
+    "temperatura": 19.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.76,
+    "humedad": 50.1,
+    "temperatura": 23.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.54,
+    "humedad": 72.0,
+    "temperatura": 17.0,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.47,
+    "humedad": 67.9,
+    "temperatura": 22.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.24,
+    "humedad": 78.5,
+    "temperatura": 17.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.14,
+    "humedad": 70.6,
+    "temperatura": 13.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.9,
+    "humedad": 58.2,
+    "temperatura": 22.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.54,
+    "humedad": 65.1,
+    "temperatura": 10.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.54,
+    "humedad": 76.1,
+    "temperatura": 16.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.46,
+    "humedad": 44.7,
+    "temperatura": 16.3,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.85,
+    "humedad": 78.7,
+    "temperatura": 12.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.98,
+    "humedad": 66.1,
+    "temperatura": 25.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.1,
+    "humedad": 89.1,
+    "temperatura": 17.0,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.27,
+    "humedad": 53.9,
+    "temperatura": 19.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.44,
+    "humedad": 50.4,
+    "temperatura": 19.9,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.92,
+    "humedad": 73.5,
+    "temperatura": 12.3,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.13,
+    "humedad": 48.3,
+    "temperatura": 19.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.01,
+    "humedad": 47.2,
+    "temperatura": 18.6,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.84,
+    "humedad": 50.1,
+    "temperatura": 15.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.03,
+    "humedad": 42.4,
+    "temperatura": 20.7,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.46,
+    "humedad": 47.7,
+    "temperatura": 15.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.47,
+    "humedad": 47.8,
+    "temperatura": 13.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.18,
+    "humedad": 79.1,
+    "temperatura": 12.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.05,
+    "humedad": 52.0,
+    "temperatura": 17.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.61,
+    "humedad": 56.1,
+    "temperatura": 23.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.16,
+    "humedad": 64.9,
+    "temperatura": 20.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.13,
+    "humedad": 51.7,
+    "temperatura": 19.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.87,
+    "humedad": 46.6,
+    "temperatura": 21.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.01,
+    "humedad": 44.9,
+    "temperatura": 14.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.23,
+    "humedad": 63.7,
+    "temperatura": 19.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.06,
+    "humedad": 51.9,
+    "temperatura": 14.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.34,
+    "humedad": 76.0,
+    "temperatura": 14.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.11,
+    "humedad": 54.2,
+    "temperatura": 20.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.03,
+    "humedad": 79.4,
+    "temperatura": 14.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.56,
+    "humedad": 78.9,
+    "temperatura": 16.3,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.52,
+    "humedad": 67.5,
+    "temperatura": 15.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.34,
+    "humedad": 82.0,
+    "temperatura": 13.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.75,
+    "humedad": 87.6,
+    "temperatura": 15.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.4,
+    "humedad": 54.0,
+    "temperatura": 21.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.1,
+    "humedad": 83.0,
+    "temperatura": 13.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.01,
+    "humedad": 53.8,
+    "temperatura": 23.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.8,
+    "humedad": 78.9,
+    "temperatura": 17.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.61,
+    "humedad": 64.1,
+    "temperatura": 20.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.77,
+    "humedad": 57.7,
+    "temperatura": 18.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.17,
+    "humedad": 74.8,
+    "temperatura": 16.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.85,
+    "humedad": 41.9,
+    "temperatura": 20.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.91,
+    "humedad": 61.3,
+    "temperatura": 22.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.9,
+    "humedad": 85.8,
+    "temperatura": 12.0,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.32,
+    "humedad": 46.3,
+    "temperatura": 19.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.84,
+    "humedad": 51.2,
+    "temperatura": 19.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.0,
+    "humedad": 67.2,
+    "temperatura": 17.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.39,
+    "humedad": 47.8,
+    "temperatura": 21.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.36,
+    "humedad": 66.5,
+    "temperatura": 17.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.12,
+    "humedad": 57.0,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.28,
+    "humedad": 52.7,
+    "temperatura": 19.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.21,
+    "humedad": 57.4,
+    "temperatura": 20.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.77,
+    "humedad": 52.0,
+    "temperatura": 23.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.53,
+    "humedad": 80.0,
+    "temperatura": 17.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.11,
+    "humedad": 77.8,
+    "temperatura": 16.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.0,
+    "humedad": 66.9,
+    "temperatura": 16.9,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.14,
+    "humedad": 49.6,
+    "temperatura": 14.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.85,
+    "humedad": 66.1,
+    "temperatura": 11.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.46,
+    "humedad": 50.3,
+    "temperatura": 22.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.13,
+    "humedad": 55.6,
+    "temperatura": 24.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.21,
+    "humedad": 52.5,
+    "temperatura": 14.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.6,
+    "humedad": 63.0,
+    "temperatura": 24.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.67,
+    "humedad": 43.6,
+    "temperatura": 21.5,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.23,
+    "humedad": 78.4,
+    "temperatura": 11.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.07,
+    "humedad": 74.7,
+    "temperatura": 17.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.11,
+    "humedad": 70.9,
+    "temperatura": 11.3,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.98,
+    "humedad": 67.4,
+    "temperatura": 22.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.53,
+    "humedad": 61.8,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.66,
+    "humedad": 51.7,
+    "temperatura": 24.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.18,
+    "humedad": 66.2,
+    "temperatura": 17.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.5,
+    "humedad": 51.7,
+    "temperatura": 24.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.9,
+    "humedad": 60.6,
+    "temperatura": 19.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.44,
+    "humedad": 41.3,
+    "temperatura": 13.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.66,
+    "humedad": 55.2,
+    "temperatura": 23.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.26,
+    "humedad": 50.0,
+    "temperatura": 22.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.24,
+    "humedad": 65.2,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.21,
+    "humedad": 59.8,
+    "temperatura": 23.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.96,
+    "humedad": 52.0,
+    "temperatura": 19.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.11,
+    "humedad": 58.7,
+    "temperatura": 25.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.05,
+    "humedad": 79.9,
+    "temperatura": 12.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.38,
+    "humedad": 69.9,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.66,
+    "humedad": 62.9,
+    "temperatura": 23.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.77,
+    "humedad": 56.6,
+    "temperatura": 24.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.07,
+    "humedad": 83.2,
+    "temperatura": 16.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.47,
+    "humedad": 56.3,
+    "temperatura": 19.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.9,
+    "humedad": 73.9,
+    "temperatura": 10.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.99,
+    "humedad": 71.1,
+    "temperatura": 14.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.45,
+    "humedad": 70.3,
+    "temperatura": 12.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.68,
+    "humedad": 56.5,
+    "temperatura": 12.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.52,
+    "humedad": 59.8,
+    "temperatura": 25.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.01,
+    "humedad": 48.5,
+    "temperatura": 15.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.91,
+    "humedad": 47.9,
+    "temperatura": 20.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.16,
+    "humedad": 53.8,
+    "temperatura": 25.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.48,
+    "humedad": 69.7,
+    "temperatura": 11.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.71,
+    "humedad": 50.6,
+    "temperatura": 23.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.36,
+    "humedad": 51.8,
+    "temperatura": 16.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.35,
+    "humedad": 51.0,
+    "temperatura": 22.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.14,
+    "humedad": 54.1,
+    "temperatura": 18.3,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.89,
+    "humedad": 40.5,
+    "temperatura": 15.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.27,
+    "humedad": 45.6,
+    "temperatura": 15.5,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.03,
+    "humedad": 61.1,
+    "temperatura": 21.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.5,
+    "humedad": 74.9,
+    "temperatura": 13.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.34,
+    "humedad": 57.8,
+    "temperatura": 23.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.28,
+    "humedad": 45.6,
+    "temperatura": 13.8,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.61,
+    "humedad": 55.4,
+    "temperatura": 18.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.09,
+    "humedad": 65.7,
+    "temperatura": 23.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.96,
+    "humedad": 53.3,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.46,
+    "humedad": 54.0,
+    "temperatura": 16.6,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.98,
+    "humedad": 69.2,
+    "temperatura": 18.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.35,
+    "humedad": 54.0,
+    "temperatura": 15.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.72,
+    "humedad": 61.3,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.56,
+    "humedad": 59.8,
+    "temperatura": 23.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.48,
+    "humedad": 54.8,
+    "temperatura": 21.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.09,
+    "humedad": 79.6,
+    "temperatura": 15.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.13,
+    "humedad": 42.6,
+    "temperatura": 17.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.69,
+    "humedad": 56.3,
+    "temperatura": 21.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.81,
+    "humedad": 87.6,
+    "temperatura": 14.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.1,
+    "humedad": 42.2,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.16,
+    "humedad": 55.0,
+    "temperatura": 19.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.67,
+    "humedad": 47.9,
+    "temperatura": 19.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.18,
+    "humedad": 76.8,
+    "temperatura": 12.3,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.11,
+    "humedad": 67.4,
+    "temperatura": 16.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.93,
+    "humedad": 69.5,
+    "temperatura": 21.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.45,
+    "humedad": 55.3,
+    "temperatura": 20.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.0,
+    "humedad": 71.4,
+    "temperatura": 16.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.32,
+    "humedad": 81.4,
+    "temperatura": 17.8,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.36,
+    "humedad": 43.1,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.15,
+    "humedad": 67.0,
+    "temperatura": 11.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.97,
+    "humedad": 58.1,
+    "temperatura": 22.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.87,
+    "humedad": 53.3,
+    "temperatura": 12.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.64,
+    "humedad": 61.0,
+    "temperatura": 20.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.41,
+    "humedad": 40.8,
+    "temperatura": 19.6,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.19,
+    "humedad": 78.5,
+    "temperatura": 16.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.25,
+    "humedad": 59.8,
+    "temperatura": 22.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.21,
+    "humedad": 84.3,
+    "temperatura": 14.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.18,
+    "humedad": 43.0,
+    "temperatura": 15.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.04,
+    "humedad": 41.2,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.2,
+    "humedad": 77.1,
+    "temperatura": 11.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.26,
+    "humedad": 73.8,
+    "temperatura": 10.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.0,
+    "humedad": 73.8,
+    "temperatura": 14.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.93,
+    "humedad": 47.3,
+    "temperatura": 18.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.84,
+    "humedad": 72.5,
+    "temperatura": 15.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.43,
+    "humedad": 55.8,
+    "temperatura": 18.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.69,
+    "humedad": 84.1,
+    "temperatura": 11.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.43,
+    "humedad": 48.0,
+    "temperatura": 19.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.98,
+    "humedad": 49.4,
+    "temperatura": 21.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.52,
+    "humedad": 68.4,
+    "temperatura": 24.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.78,
+    "humedad": 75.6,
+    "temperatura": 12.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.64,
+    "humedad": 62.4,
+    "temperatura": 24.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.39,
+    "humedad": 48.7,
+    "temperatura": 12.6,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.66,
+    "humedad": 85.7,
+    "temperatura": 14.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.2,
+    "humedad": 65.0,
+    "temperatura": 23.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.17,
+    "humedad": 42.4,
+    "temperatura": 12.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.86,
+    "humedad": 65.6,
+    "temperatura": 19.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.08,
+    "humedad": 84.9,
+    "temperatura": 16.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.1,
+    "humedad": 88.7,
+    "temperatura": 16.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.37,
+    "humedad": 67.2,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.9,
+    "humedad": 84.6,
+    "temperatura": 11.9,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.04,
+    "humedad": 45.1,
+    "temperatura": 16.7,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.86,
+    "humedad": 47.8,
+    "temperatura": 18.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.34,
+    "humedad": 56.7,
+    "temperatura": 20.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.61,
+    "humedad": 84.1,
+    "temperatura": 12.2,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.52,
+    "humedad": 88.7,
+    "temperatura": 17.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.7,
+    "humedad": 49.5,
+    "temperatura": 16.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.92,
+    "humedad": 46.5,
+    "temperatura": 18.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.95,
+    "humedad": 67.9,
+    "temperatura": 15.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.45,
+    "humedad": 57.7,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.09,
+    "humedad": 49.2,
+    "temperatura": 19.1,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.05,
+    "humedad": 76.0,
+    "temperatura": 14.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.1,
+    "humedad": 81.7,
+    "temperatura": 11.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.81,
+    "humedad": 55.2,
+    "temperatura": 22.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.64,
+    "humedad": 75.0,
+    "temperatura": 15.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.66,
+    "humedad": 65.0,
+    "temperatura": 12.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.26,
+    "humedad": 77.1,
+    "temperatura": 15.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.7,
+    "humedad": 40.9,
+    "temperatura": 17.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.11,
+    "humedad": 86.1,
+    "temperatura": 11.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.24,
+    "humedad": 49.0,
+    "temperatura": 19.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.12,
+    "humedad": 77.9,
+    "temperatura": 17.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.85,
+    "humedad": 77.9,
+    "temperatura": 11.0,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.3,
+    "humedad": 66.6,
+    "temperatura": 10.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.89,
+    "humedad": 68.4,
+    "temperatura": 25.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.46,
+    "humedad": 54.6,
+    "temperatura": 21.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.42,
+    "humedad": 89.0,
+    "temperatura": 15.2,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.11,
+    "humedad": 40.7,
+    "temperatura": 16.6,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.75,
+    "humedad": 68.0,
+    "temperatura": 23.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.59,
+    "humedad": 71.8,
+    "temperatura": 13.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.52,
+    "humedad": 57.3,
+    "temperatura": 21.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.13,
+    "humedad": 41.1,
+    "temperatura": 19.9,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.05,
+    "humedad": 55.3,
+    "temperatura": 12.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.05,
+    "humedad": 66.1,
+    "temperatura": 13.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.49,
+    "humedad": 59.6,
+    "temperatura": 19.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.6,
+    "humedad": 52.8,
+    "temperatura": 22.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.73,
+    "humedad": 64.8,
+    "temperatura": 22.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.17,
+    "humedad": 56.9,
+    "temperatura": 18.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.93,
+    "humedad": 41.1,
+    "temperatura": 17.9,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.78,
+    "humedad": 84.5,
+    "temperatura": 15.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.28,
+    "humedad": 84.4,
+    "temperatura": 10.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.72,
+    "humedad": 66.9,
+    "temperatura": 18.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.03,
+    "humedad": 71.8,
+    "temperatura": 16.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.81,
+    "humedad": 48.1,
+    "temperatura": 15.5,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.48,
+    "humedad": 63.2,
+    "temperatura": 18.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.93,
+    "humedad": 48.8,
+    "temperatura": 21.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.39,
+    "humedad": 53.9,
+    "temperatura": 18.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.62,
+    "humedad": 50.9,
+    "temperatura": 15.7,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.05,
+    "humedad": 57.4,
+    "temperatura": 25.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.72,
+    "humedad": 73.8,
+    "temperatura": 14.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.49,
+    "humedad": 51.7,
+    "temperatura": 18.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.41,
+    "humedad": 43.1,
+    "temperatura": 13.1,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.6,
+    "humedad": 80.3,
+    "temperatura": 13.8,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.56,
+    "humedad": 54.4,
+    "temperatura": 20.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.33,
+    "humedad": 69.6,
+    "temperatura": 25.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.92,
+    "humedad": 77.5,
+    "temperatura": 14.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.97,
+    "humedad": 50.6,
+    "temperatura": 14.7,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.36,
+    "humedad": 61.9,
+    "temperatura": 20.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.5,
+    "humedad": 79.6,
+    "temperatura": 14.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.3,
+    "humedad": 56.9,
+    "temperatura": 22.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.03,
+    "humedad": 68.9,
+    "temperatura": 19.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.57,
+    "humedad": 59.0,
+    "temperatura": 23.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.66,
+    "humedad": 78.8,
+    "temperatura": 10.7,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.59,
+    "humedad": 67.8,
+    "temperatura": 12.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.72,
+    "humedad": 46.0,
+    "temperatura": 15.6,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.85,
+    "humedad": 59.5,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.21,
+    "humedad": 51.1,
+    "temperatura": 20.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.0,
+    "humedad": 78.7,
+    "temperatura": 15.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.56,
+    "humedad": 86.9,
+    "temperatura": 10.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.26,
+    "humedad": 46.2,
+    "temperatura": 20.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.99,
+    "humedad": 50.8,
+    "temperatura": 15.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.77,
+    "humedad": 66.2,
+    "temperatura": 19.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.79,
+    "humedad": 43.4,
+    "temperatura": 12.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.14,
+    "humedad": 81.2,
+    "temperatura": 11.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.32,
+    "humedad": 43.2,
+    "temperatura": 20.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.97,
+    "humedad": 41.6,
+    "temperatura": 14.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.1,
+    "humedad": 68.6,
+    "temperatura": 13.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.22,
+    "humedad": 70.4,
+    "temperatura": 17.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.18,
+    "humedad": 65.7,
+    "temperatura": 19.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.38,
+    "humedad": 54.5,
+    "temperatura": 12.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.12,
+    "humedad": 47.2,
+    "temperatura": 12.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.16,
+    "humedad": 73.7,
+    "temperatura": 10.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.78,
+    "humedad": 47.4,
+    "temperatura": 12.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.86,
+    "humedad": 58.3,
+    "temperatura": 15.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.2,
+    "humedad": 76.1,
+    "temperatura": 13.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.49,
+    "humedad": 59.5,
+    "temperatura": 13.5,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.21,
+    "humedad": 61.3,
+    "temperatura": 19.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.19,
+    "humedad": 55.1,
+    "temperatura": 20.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.34,
+    "humedad": 43.0,
+    "temperatura": 18.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.16,
+    "humedad": 68.2,
+    "temperatura": 17.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.64,
+    "humedad": 71.1,
+    "temperatura": 13.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.93,
+    "humedad": 82.6,
+    "temperatura": 11.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.71,
+    "humedad": 61.2,
+    "temperatura": 25.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.84,
+    "humedad": 59.9,
+    "temperatura": 17.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.04,
+    "humedad": 72.2,
+    "temperatura": 12.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.11,
+    "humedad": 67.4,
+    "temperatura": 15.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.16,
+    "humedad": 84.6,
+    "temperatura": 17.2,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.27,
+    "humedad": 54.9,
+    "temperatura": 21.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.7,
+    "humedad": 79.0,
+    "temperatura": 12.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.73,
+    "humedad": 77.9,
+    "temperatura": 12.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.16,
+    "humedad": 58.8,
+    "temperatura": 23.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.51,
+    "humedad": 49.7,
+    "temperatura": 20.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.63,
+    "humedad": 55.2,
+    "temperatura": 25.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.93,
+    "humedad": 70.9,
+    "temperatura": 11.0,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.25,
+    "humedad": 53.0,
+    "temperatura": 22.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.8,
+    "humedad": 89.7,
+    "temperatura": 14.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.53,
+    "humedad": 59.2,
+    "temperatura": 23.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.89,
+    "humedad": 78.8,
+    "temperatura": 13.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.33,
+    "humedad": 84.8,
+    "temperatura": 13.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.38,
+    "humedad": 69.7,
+    "temperatura": 21.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.27,
+    "humedad": 55.3,
+    "temperatura": 17.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.36,
+    "humedad": 53.8,
+    "temperatura": 25.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.34,
+    "humedad": 65.1,
+    "temperatura": 24.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.06,
+    "humedad": 50.4,
+    "temperatura": 20.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.76,
+    "humedad": 56.0,
+    "temperatura": 21.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.66,
+    "humedad": 73.6,
+    "temperatura": 18.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.41,
+    "humedad": 51.1,
+    "temperatura": 23.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.3,
+    "humedad": 68.0,
+    "temperatura": 24.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.0,
+    "humedad": 63.8,
+    "temperatura": 19.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.31,
+    "humedad": 56.6,
+    "temperatura": 20.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.29,
+    "humedad": 66.4,
+    "temperatura": 23.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.87,
+    "humedad": 46.2,
+    "temperatura": 20.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.35,
+    "humedad": 59.8,
+    "temperatura": 19.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.15,
+    "humedad": 65.7,
+    "temperatura": 23.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.3,
+    "humedad": 60.2,
+    "temperatura": 18.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.6,
+    "humedad": 56.6,
+    "temperatura": 20.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.06,
+    "humedad": 81.4,
+    "temperatura": 16.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.31,
+    "humedad": 65.2,
+    "temperatura": 16.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.54,
+    "humedad": 82.2,
+    "temperatura": 11.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.1,
+    "humedad": 50.5,
+    "temperatura": 20.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.46,
+    "humedad": 40.8,
+    "temperatura": 17.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.34,
+    "humedad": 46.8,
+    "temperatura": 15.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.09,
+    "humedad": 57.7,
+    "temperatura": 19.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.08,
+    "humedad": 45.3,
+    "temperatura": 20.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.28,
+    "humedad": 52.1,
+    "temperatura": 17.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.12,
+    "humedad": 56.6,
+    "temperatura": 20.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.38,
+    "humedad": 60.1,
+    "temperatura": 23.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.01,
+    "humedad": 82.7,
+    "temperatura": 10.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.77,
+    "humedad": 57.9,
+    "temperatura": 18.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.75,
+    "humedad": 69.0,
+    "temperatura": 21.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.73,
+    "humedad": 73.8,
+    "temperatura": 15.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.29,
+    "humedad": 61.5,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.17,
+    "humedad": 46.9,
+    "temperatura": 14.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.36,
+    "humedad": 53.0,
+    "temperatura": 23.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.12,
+    "humedad": 40.8,
+    "temperatura": 15.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.4,
+    "humedad": 79.6,
+    "temperatura": 11.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.06,
+    "humedad": 45.4,
+    "temperatura": 12.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.72,
+    "humedad": 48.1,
+    "temperatura": 19.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.11,
+    "humedad": 83.9,
+    "temperatura": 15.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.61,
+    "humedad": 60.5,
+    "temperatura": 18.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.31,
+    "humedad": 62.4,
+    "temperatura": 20.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.04,
+    "humedad": 81.2,
+    "temperatura": 12.3,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.11,
+    "humedad": 40.3,
+    "temperatura": 19.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.12,
+    "humedad": 71.4,
+    "temperatura": 11.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.3,
+    "humedad": 49.3,
+    "temperatura": 20.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.48,
+    "humedad": 60.8,
+    "temperatura": 21.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.19,
+    "humedad": 64.7,
+    "temperatura": 25.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.22,
+    "humedad": 57.6,
+    "temperatura": 22.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.17,
+    "humedad": 62.4,
+    "temperatura": 23.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.5,
+    "humedad": 57.4,
+    "temperatura": 25.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.62,
+    "humedad": 79.0,
+    "temperatura": 18.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.73,
+    "humedad": 45.9,
+    "temperatura": 18.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.47,
+    "humedad": 50.2,
+    "temperatura": 19.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.7,
+    "humedad": 61.3,
+    "temperatura": 18.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.61,
+    "humedad": 69.3,
+    "temperatura": 12.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.28,
+    "humedad": 58.6,
+    "temperatura": 21.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.86,
+    "humedad": 65.4,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.05,
+    "humedad": 48.5,
+    "temperatura": 13.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.72,
+    "humedad": 51.7,
+    "temperatura": 24.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.33,
+    "humedad": 61.9,
+    "temperatura": 19.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.17,
+    "humedad": 42.1,
+    "temperatura": 13.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.67,
+    "humedad": 55.5,
+    "temperatura": 16.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.37,
+    "humedad": 54.3,
+    "temperatura": 18.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.53,
+    "humedad": 62.7,
+    "temperatura": 25.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.29,
+    "humedad": 70.6,
+    "temperatura": 16.9,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.47,
+    "humedad": 80.4,
+    "temperatura": 16.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.31,
+    "humedad": 44.0,
+    "temperatura": 16.9,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.38,
+    "humedad": 41.0,
+    "temperatura": 16.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.57,
+    "humedad": 66.9,
+    "temperatura": 24.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.72,
+    "humedad": 74.6,
+    "temperatura": 14.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.14,
+    "humedad": 65.5,
+    "temperatura": 12.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.28,
+    "humedad": 51.6,
+    "temperatura": 25.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.66,
+    "humedad": 44.0,
+    "temperatura": 18.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.46,
+    "humedad": 81.6,
+    "temperatura": 16.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.13,
+    "humedad": 84.2,
+    "temperatura": 16.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.29,
+    "humedad": 62.6,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.86,
+    "humedad": 69.8,
+    "temperatura": 22.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.18,
+    "humedad": 51.0,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.08,
+    "humedad": 75.0,
+    "temperatura": 11.8,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.58,
+    "humedad": 54.7,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.03,
+    "humedad": 86.7,
+    "temperatura": 13.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.21,
+    "humedad": 57.7,
+    "temperatura": 14.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.77,
+    "humedad": 80.6,
+    "temperatura": 10.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.59,
+    "humedad": 63.8,
+    "temperatura": 18.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.57,
+    "humedad": 55.8,
+    "temperatura": 14.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.84,
+    "humedad": 55.4,
+    "temperatura": 19.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.56,
+    "humedad": 67.3,
+    "temperatura": 24.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.14,
+    "humedad": 56.5,
+    "temperatura": 25.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.27,
+    "humedad": 68.4,
+    "temperatura": 10.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.44,
+    "humedad": 46.1,
+    "temperatura": 19.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.28,
+    "humedad": 53.9,
+    "temperatura": 21.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.16,
+    "humedad": 68.9,
+    "temperatura": 23.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.56,
+    "humedad": 51.1,
+    "temperatura": 14.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.24,
+    "humedad": 65.5,
+    "temperatura": 11.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.63,
+    "humedad": 51.2,
+    "temperatura": 13.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.18,
+    "humedad": 59.7,
+    "temperatura": 22.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.4,
+    "humedad": 78.9,
+    "temperatura": 13.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.03,
+    "humedad": 43.1,
+    "temperatura": 19.3,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.29,
+    "humedad": 56.0,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.55,
+    "humedad": 44.5,
+    "temperatura": 19.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.85,
+    "humedad": 72.5,
+    "temperatura": 16.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.78,
+    "humedad": 78.5,
+    "temperatura": 10.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.64,
+    "humedad": 85.6,
+    "temperatura": 12.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.28,
+    "humedad": 56.7,
+    "temperatura": 20.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.84,
+    "humedad": 58.8,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.92,
+    "humedad": 75.4,
+    "temperatura": 15.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.46,
+    "humedad": 88.0,
+    "temperatura": 14.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.8,
+    "humedad": 51.8,
+    "temperatura": 24.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.28,
+    "humedad": 49.8,
+    "temperatura": 13.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.22,
+    "humedad": 57.5,
+    "temperatura": 20.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.53,
+    "humedad": 54.5,
+    "temperatura": 14.5,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.04,
+    "humedad": 74.3,
+    "temperatura": 13.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.83,
+    "humedad": 82.7,
+    "temperatura": 10.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.4,
+    "humedad": 48.6,
+    "temperatura": 18.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.81,
+    "humedad": 86.7,
+    "temperatura": 15.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.67,
+    "humedad": 81.1,
+    "temperatura": 12.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.94,
+    "humedad": 85.2,
+    "temperatura": 11.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.1,
+    "humedad": 42.4,
+    "temperatura": 12.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.29,
+    "humedad": 59.7,
+    "temperatura": 17.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.09,
+    "humedad": 79.1,
+    "temperatura": 10.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.75,
+    "humedad": 79.1,
+    "temperatura": 10.8,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.32,
+    "humedad": 71.2,
+    "temperatura": 14.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.29,
+    "humedad": 45.5,
+    "temperatura": 15.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.85,
+    "humedad": 46.8,
+    "temperatura": 18.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.2,
+    "humedad": 59.0,
+    "temperatura": 17.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.16,
+    "humedad": 82.5,
+    "temperatura": 13.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.42,
+    "humedad": 64.0,
+    "temperatura": 21.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.51,
+    "humedad": 61.2,
+    "temperatura": 25.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.82,
+    "humedad": 81.7,
+    "temperatura": 12.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.34,
+    "humedad": 70.3,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.76,
+    "humedad": 57.0,
+    "temperatura": 14.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.89,
+    "humedad": 75.1,
+    "temperatura": 11.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.48,
+    "humedad": 72.4,
+    "temperatura": 11.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.82,
+    "humedad": 55.2,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.05,
+    "humedad": 74.1,
+    "temperatura": 15.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.15,
+    "humedad": 76.3,
+    "temperatura": 16.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.77,
+    "humedad": 65.8,
+    "temperatura": 18.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.28,
+    "humedad": 45.3,
+    "temperatura": 14.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.45,
+    "humedad": 60.0,
+    "temperatura": 25.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.7,
+    "humedad": 69.3,
+    "temperatura": 15.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.33,
+    "humedad": 47.6,
+    "temperatura": 14.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.04,
+    "humedad": 74.1,
+    "temperatura": 11.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.8,
+    "humedad": 54.0,
+    "temperatura": 23.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.12,
+    "humedad": 56.0,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.34,
+    "humedad": 65.2,
+    "temperatura": 10.9,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.8,
+    "humedad": 55.5,
+    "temperatura": 24.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.81,
+    "humedad": 58.9,
+    "temperatura": 15.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.14,
+    "humedad": 89.8,
+    "temperatura": 13.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.85,
+    "humedad": 47.3,
+    "temperatura": 15.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.2,
+    "humedad": 85.3,
+    "temperatura": 17.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.41,
+    "humedad": 53.3,
+    "temperatura": 20.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.25,
+    "humedad": 67.5,
+    "temperatura": 10.3,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.71,
+    "humedad": 63.4,
+    "temperatura": 22.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.97,
+    "humedad": 75.5,
+    "temperatura": 16.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.35,
+    "humedad": 66.1,
+    "temperatura": 11.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.34,
+    "humedad": 57.2,
+    "temperatura": 16.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.35,
+    "humedad": 57.6,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.09,
+    "humedad": 80.8,
+    "temperatura": 14.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.85,
+    "humedad": 68.2,
+    "temperatura": 10.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.82,
+    "humedad": 61.1,
+    "temperatura": 22.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.57,
+    "humedad": 84.5,
+    "temperatura": 14.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.9,
+    "humedad": 50.9,
+    "temperatura": 14.6,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.16,
+    "humedad": 74.0,
+    "temperatura": 16.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.37,
+    "humedad": 75.1,
+    "temperatura": 14.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.2,
+    "humedad": 60.0,
+    "temperatura": 16.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.2,
+    "humedad": 67.0,
+    "temperatura": 17.0,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.12,
+    "humedad": 49.2,
+    "temperatura": 19.7,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.31,
+    "humedad": 59.9,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.67,
+    "humedad": 53.8,
+    "temperatura": 24.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.4,
+    "humedad": 82.3,
+    "temperatura": 12.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.07,
+    "humedad": 51.9,
+    "temperatura": 21.5,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.0,
+    "humedad": 78.7,
+    "temperatura": 17.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.12,
+    "humedad": 52.1,
+    "temperatura": 18.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.28,
+    "humedad": 67.4,
+    "temperatura": 20.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.02,
+    "humedad": 49.7,
+    "temperatura": 12.1,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.16,
+    "humedad": 58.2,
+    "temperatura": 19.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.84,
+    "humedad": 67.8,
+    "temperatura": 20.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.71,
+    "humedad": 63.8,
+    "temperatura": 21.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.82,
+    "humedad": 79.9,
+    "temperatura": 16.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.01,
+    "humedad": 47.6,
+    "temperatura": 13.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.73,
+    "humedad": 77.8,
+    "temperatura": 13.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.15,
+    "humedad": 48.6,
+    "temperatura": 19.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.73,
+    "humedad": 56.0,
+    "temperatura": 22.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.28,
+    "humedad": 81.1,
+    "temperatura": 12.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.97,
+    "humedad": 52.5,
+    "temperatura": 24.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.14,
+    "humedad": 77.4,
+    "temperatura": 13.4,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.07,
+    "humedad": 43.0,
+    "temperatura": 18.5,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.14,
+    "humedad": 69.7,
+    "temperatura": 25.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.74,
+    "humedad": 54.2,
+    "temperatura": 24.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.44,
+    "humedad": 84.9,
+    "temperatura": 12.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.17,
+    "humedad": 89.8,
+    "temperatura": 11.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.78,
+    "humedad": 77.3,
+    "temperatura": 16.3,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.78,
+    "humedad": 63.4,
+    "temperatura": 20.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.05,
+    "humedad": 82.8,
+    "temperatura": 16.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.26,
+    "humedad": 85.1,
+    "temperatura": 15.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.91,
+    "humedad": 43.5,
+    "temperatura": 21.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.37,
+    "humedad": 54.1,
+    "temperatura": 18.5,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.3,
+    "humedad": 62.2,
+    "temperatura": 24.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.28,
+    "humedad": 41.2,
+    "temperatura": 21.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.09,
+    "humedad": 69.1,
+    "temperatura": 12.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.3,
+    "humedad": 40.4,
+    "temperatura": 20.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.79,
+    "humedad": 50.5,
+    "temperatura": 19.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.25,
+    "humedad": 57.8,
+    "temperatura": 24.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.62,
+    "humedad": 57.9,
+    "temperatura": 18.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.95,
+    "humedad": 53.3,
+    "temperatura": 18.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.61,
+    "humedad": 54.3,
+    "temperatura": 13.1,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.26,
+    "humedad": 64.7,
+    "temperatura": 20.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.48,
+    "humedad": 83.6,
+    "temperatura": 13.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.08,
+    "humedad": 47.9,
+    "temperatura": 21.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.26,
+    "humedad": 61.8,
+    "temperatura": 21.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.36,
+    "humedad": 55.7,
+    "temperatura": 20.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.0,
+    "humedad": 83.9,
+    "temperatura": 17.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.01,
+    "humedad": 79.2,
+    "temperatura": 10.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.47,
+    "humedad": 40.9,
+    "temperatura": 20.5,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.42,
+    "humedad": 75.7,
+    "temperatura": 13.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.86,
+    "humedad": 46.6,
+    "temperatura": 15.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.38,
+    "humedad": 55.2,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.84,
+    "humedad": 87.8,
+    "temperatura": 16.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.0,
+    "humedad": 62.5,
+    "temperatura": 20.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.79,
+    "humedad": 67.3,
+    "temperatura": 19.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.79,
+    "humedad": 70.6,
+    "temperatura": 10.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.67,
+    "humedad": 54.0,
+    "temperatura": 13.6,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.82,
+    "humedad": 54.5,
+    "temperatura": 17.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.93,
+    "humedad": 67.2,
+    "temperatura": 22.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.52,
+    "humedad": 56.3,
+    "temperatura": 16.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.67,
+    "humedad": 67.6,
+    "temperatura": 25.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.12,
+    "humedad": 82.1,
+    "temperatura": 14.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.01,
+    "humedad": 86.7,
+    "temperatura": 14.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.43,
+    "humedad": 53.0,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.79,
+    "humedad": 74.9,
+    "temperatura": 17.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.02,
+    "humedad": 78.5,
+    "temperatura": 18.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.13,
+    "humedad": 67.9,
+    "temperatura": 17.8,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.26,
+    "humedad": 53.4,
+    "temperatura": 12.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.05,
+    "humedad": 64.2,
+    "temperatura": 24.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.09,
+    "humedad": 79.3,
+    "temperatura": 11.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.58,
+    "humedad": 66.3,
+    "temperatura": 24.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.81,
+    "humedad": 56.1,
+    "temperatura": 16.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.82,
+    "humedad": 66.3,
+    "temperatura": 20.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.23,
+    "humedad": 63.1,
+    "temperatura": 22.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.64,
+    "humedad": 67.2,
+    "temperatura": 23.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.36,
+    "humedad": 51.0,
+    "temperatura": 17.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.35,
+    "humedad": 49.7,
+    "temperatura": 16.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.65,
+    "humedad": 75.4,
+    "temperatura": 11.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.44,
+    "humedad": 69.3,
+    "temperatura": 24.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.02,
+    "humedad": 46.4,
+    "temperatura": 21.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.13,
+    "humedad": 70.8,
+    "temperatura": 10.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.63,
+    "humedad": 65.8,
+    "temperatura": 25.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.85,
+    "humedad": 51.1,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.28,
+    "humedad": 48.5,
+    "temperatura": 16.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.84,
+    "humedad": 68.2,
+    "temperatura": 16.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.7,
+    "humedad": 50.2,
+    "temperatura": 16.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.74,
+    "humedad": 53.2,
+    "temperatura": 12.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.92,
+    "humedad": 41.8,
+    "temperatura": 20.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.23,
+    "humedad": 59.9,
+    "temperatura": 18.7,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.07,
+    "humedad": 79.6,
+    "temperatura": 14.0,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.79,
+    "humedad": 86.9,
+    "temperatura": 14.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.55,
+    "humedad": 54.8,
+    "temperatura": 25.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.15,
+    "humedad": 56.9,
+    "temperatura": 24.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.7,
+    "humedad": 68.7,
+    "temperatura": 11.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.3,
+    "humedad": 52.0,
+    "temperatura": 20.6,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.14,
+    "humedad": 61.6,
+    "temperatura": 22.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.65,
+    "humedad": 83.1,
+    "temperatura": 17.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.02,
+    "humedad": 85.6,
+    "temperatura": 10.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.93,
+    "humedad": 84.7,
+    "temperatura": 14.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.65,
+    "humedad": 67.4,
+    "temperatura": 18.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.85,
+    "humedad": 58.7,
+    "temperatura": 24.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.2,
+    "humedad": 52.9,
+    "temperatura": 16.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.17,
+    "humedad": 86.5,
+    "temperatura": 10.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.79,
+    "humedad": 72.1,
+    "temperatura": 15.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.03,
+    "humedad": 44.2,
+    "temperatura": 17.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.07,
+    "humedad": 68.5,
+    "temperatura": 23.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.98,
+    "humedad": 83.8,
+    "temperatura": 15.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.68,
+    "humedad": 66.5,
+    "temperatura": 17.7,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.14,
+    "humedad": 82.2,
+    "temperatura": 13.8,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.22,
+    "humedad": 66.3,
+    "temperatura": 17.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.24,
+    "humedad": 88.9,
+    "temperatura": 12.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.7,
+    "humedad": 55.8,
+    "temperatura": 15.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.05,
+    "humedad": 42.6,
+    "temperatura": 13.7,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.67,
+    "humedad": 75.4,
+    "temperatura": 14.8,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.27,
+    "humedad": 56.1,
+    "temperatura": 18.1,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.84,
+    "humedad": 71.8,
+    "temperatura": 12.0,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.1,
+    "humedad": 63.2,
+    "temperatura": 23.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.23,
+    "humedad": 64.5,
+    "temperatura": 21.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.83,
+    "humedad": 76.4,
+    "temperatura": 12.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.09,
+    "humedad": 49.5,
+    "temperatura": 13.7,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.81,
+    "humedad": 63.9,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.44,
+    "humedad": 65.9,
+    "temperatura": 20.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.87,
+    "humedad": 42.4,
+    "temperatura": 12.1,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.78,
+    "humedad": 63.7,
+    "temperatura": 19.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.42,
+    "humedad": 58.5,
+    "temperatura": 15.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.77,
+    "humedad": 72.6,
+    "temperatura": 12.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.77,
+    "humedad": 66.3,
+    "temperatura": 13.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.33,
+    "humedad": 62.8,
+    "temperatura": 22.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.94,
+    "humedad": 67.2,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.81,
+    "humedad": 44.1,
+    "temperatura": 13.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.67,
+    "humedad": 59.9,
+    "temperatura": 20.7,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.02,
+    "humedad": 62.2,
+    "temperatura": 25.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.34,
+    "humedad": 52.6,
+    "temperatura": 15.6,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.8,
+    "humedad": 63.4,
+    "temperatura": 25.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.06,
+    "humedad": 82.5,
+    "temperatura": 12.2,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.27,
+    "humedad": 45.8,
+    "temperatura": 18.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.59,
+    "humedad": 55.0,
+    "temperatura": 23.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.94,
+    "humedad": 65.5,
+    "temperatura": 24.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.17,
+    "humedad": 68.8,
+    "temperatura": 21.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.85,
+    "humedad": 55.2,
+    "temperatura": 20.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.12,
+    "humedad": 87.2,
+    "temperatura": 11.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.33,
+    "humedad": 81.5,
+    "temperatura": 13.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.94,
+    "humedad": 65.0,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.54,
+    "humedad": 77.1,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.17,
+    "humedad": 80.8,
+    "temperatura": 10.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.8,
+    "humedad": 79.1,
+    "temperatura": 11.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.33,
+    "humedad": 58.3,
+    "temperatura": 25.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.78,
+    "humedad": 50.5,
+    "temperatura": 18.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.86,
+    "humedad": 56.7,
+    "temperatura": 18.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.4,
+    "humedad": 61.5,
+    "temperatura": 21.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.32,
+    "humedad": 52.6,
+    "temperatura": 14.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.33,
+    "humedad": 85.0,
+    "temperatura": 13.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.96,
+    "humedad": 68.7,
+    "temperatura": 20.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.18,
+    "humedad": 56.0,
+    "temperatura": 18.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.97,
+    "humedad": 75.0,
+    "temperatura": 10.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.56,
+    "humedad": 61.2,
+    "temperatura": 22.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.21,
+    "humedad": 48.3,
+    "temperatura": 19.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.11,
+    "humedad": 55.3,
+    "temperatura": 19.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.48,
+    "humedad": 40.8,
+    "temperatura": 15.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.77,
+    "humedad": 68.4,
+    "temperatura": 13.7,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.78,
+    "humedad": 82.3,
+    "temperatura": 10.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.76,
+    "humedad": 79.4,
+    "temperatura": 15.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.83,
+    "humedad": 43.6,
+    "temperatura": 15.1,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.15,
+    "humedad": 51.9,
+    "temperatura": 15.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.87,
+    "humedad": 84.1,
+    "temperatura": 12.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.88,
+    "humedad": 51.6,
+    "temperatura": 25.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.35,
+    "humedad": 74.4,
+    "temperatura": 11.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.37,
+    "humedad": 48.2,
+    "temperatura": 16.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.8,
+    "humedad": 85.0,
+    "temperatura": 15.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.11,
+    "humedad": 74.9,
+    "temperatura": 12.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.49,
+    "humedad": 56.9,
+    "temperatura": 19.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.8,
+    "humedad": 81.0,
+    "temperatura": 14.8,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.59,
+    "humedad": 67.9,
+    "temperatura": 24.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.98,
+    "humedad": 40.2,
+    "temperatura": 15.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.91,
+    "humedad": 58.3,
+    "temperatura": 25.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.1,
+    "humedad": 40.4,
+    "temperatura": 15.8,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.56,
+    "humedad": 51.0,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.26,
+    "humedad": 66.0,
+    "temperatura": 21.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.68,
+    "humedad": 59.0,
+    "temperatura": 14.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.06,
+    "humedad": 42.4,
+    "temperatura": 20.6,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.69,
+    "humedad": 57.1,
+    "temperatura": 17.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.17,
+    "humedad": 58.8,
+    "temperatura": 19.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.39,
+    "humedad": 42.1,
+    "temperatura": 19.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.02,
+    "humedad": 66.5,
+    "temperatura": 19.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.32,
+    "humedad": 87.2,
+    "temperatura": 15.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.02,
+    "humedad": 45.0,
+    "temperatura": 18.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.25,
+    "humedad": 41.5,
+    "temperatura": 18.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.14,
+    "humedad": 70.6,
+    "temperatura": 11.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.15,
+    "humedad": 41.3,
+    "temperatura": 20.8,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.34,
+    "humedad": 65.8,
+    "temperatura": 20.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.39,
+    "humedad": 51.5,
+    "temperatura": 14.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.75,
+    "humedad": 77.5,
+    "temperatura": 13.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.18,
+    "humedad": 53.7,
+    "temperatura": 17.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.82,
+    "humedad": 54.5,
+    "temperatura": 25.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.11,
+    "humedad": 44.7,
+    "temperatura": 14.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.6,
+    "humedad": 75.5,
+    "temperatura": 11.3,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.11,
+    "humedad": 66.2,
+    "temperatura": 10.9,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.5,
+    "humedad": 64.7,
+    "temperatura": 20.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.54,
+    "humedad": 53.4,
+    "temperatura": 14.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.05,
+    "humedad": 73.6,
+    "temperatura": 10.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.5,
+    "humedad": 54.1,
+    "temperatura": 23.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.27,
+    "humedad": 64.8,
+    "temperatura": 23.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.83,
+    "humedad": 62.3,
+    "temperatura": 19.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.99,
+    "humedad": 60.3,
+    "temperatura": 19.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.63,
+    "humedad": 65.8,
+    "temperatura": 22.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.81,
+    "humedad": 79.3,
+    "temperatura": 13.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.81,
+    "humedad": 51.0,
+    "temperatura": 14.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.81,
+    "humedad": 58.2,
+    "temperatura": 19.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.47,
+    "humedad": 56.3,
+    "temperatura": 19.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.02,
+    "humedad": 67.1,
+    "temperatura": 19.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.9,
+    "humedad": 88.9,
+    "temperatura": 12.4,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.14,
+    "humedad": 61.3,
+    "temperatura": 20.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.8,
+    "humedad": 48.0,
+    "temperatura": 16.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.58,
+    "humedad": 61.3,
+    "temperatura": 24.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.83,
+    "humedad": 40.9,
+    "temperatura": 13.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.36,
+    "humedad": 48.8,
+    "temperatura": 18.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.61,
+    "humedad": 48.7,
+    "temperatura": 14.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.63,
+    "humedad": 80.2,
+    "temperatura": 12.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.39,
+    "humedad": 56.6,
+    "temperatura": 16.7,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.48,
+    "humedad": 64.4,
+    "temperatura": 23.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.09,
+    "humedad": 55.5,
+    "temperatura": 22.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.06,
+    "humedad": 58.4,
+    "temperatura": 15.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.42,
+    "humedad": 55.0,
+    "temperatura": 20.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.33,
+    "humedad": 89.5,
+    "temperatura": 17.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.11,
+    "humedad": 44.7,
+    "temperatura": 12.7,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.89,
+    "humedad": 61.1,
+    "temperatura": 22.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.05,
+    "humedad": 79.4,
+    "temperatura": 13.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.82,
+    "humedad": 56.9,
+    "temperatura": 18.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.46,
+    "humedad": 55.9,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.78,
+    "humedad": 59.5,
+    "temperatura": 18.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.43,
+    "humedad": 79.3,
+    "temperatura": 13.7,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.33,
+    "humedad": 87.6,
+    "temperatura": 11.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.41,
+    "humedad": 54.0,
+    "temperatura": 12.8,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.29,
+    "humedad": 56.7,
+    "temperatura": 21.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.79,
+    "humedad": 88.7,
+    "temperatura": 11.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.26,
+    "humedad": 89.6,
+    "temperatura": 10.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.45,
+    "humedad": 50.9,
+    "temperatura": 25.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.98,
+    "humedad": 57.6,
+    "temperatura": 20.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.07,
+    "humedad": 51.6,
+    "temperatura": 21.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.06,
+    "humedad": 56.4,
+    "temperatura": 15.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.19,
+    "humedad": 51.7,
+    "temperatura": 16.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.26,
+    "humedad": 66.1,
+    "temperatura": 19.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.92,
+    "humedad": 85.6,
+    "temperatura": 10.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.23,
+    "humedad": 70.4,
+    "temperatura": 10.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.33,
+    "humedad": 56.7,
+    "temperatura": 13.9,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.3,
+    "humedad": 57.8,
+    "temperatura": 16.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.58,
+    "humedad": 52.7,
+    "temperatura": 20.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.33,
+    "humedad": 88.4,
+    "temperatura": 15.8,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.78,
+    "humedad": 80.9,
+    "temperatura": 13.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.21,
+    "humedad": 66.3,
+    "temperatura": 15.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.15,
+    "humedad": 82.2,
+    "temperatura": 15.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.75,
+    "humedad": 57.3,
+    "temperatura": 18.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.8,
+    "humedad": 63.1,
+    "temperatura": 24.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.3,
+    "humedad": 56.1,
+    "temperatura": 18.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.91,
+    "humedad": 55.0,
+    "temperatura": 23.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.04,
+    "humedad": 59.4,
+    "temperatura": 21.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.34,
+    "humedad": 54.8,
+    "temperatura": 16.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.49,
+    "humedad": 55.9,
+    "temperatura": 24.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.27,
+    "humedad": 50.5,
+    "temperatura": 12.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.0,
+    "humedad": 50.5,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.44,
+    "humedad": 42.7,
+    "temperatura": 18.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.88,
+    "humedad": 78.4,
+    "temperatura": 17.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.49,
+    "humedad": 42.0,
+    "temperatura": 16.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.92,
+    "humedad": 89.5,
+    "temperatura": 15.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.64,
+    "humedad": 56.6,
+    "temperatura": 24.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.36,
+    "humedad": 50.7,
+    "temperatura": 12.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.27,
+    "humedad": 81.5,
+    "temperatura": 13.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.55,
+    "humedad": 52.1,
+    "temperatura": 12.7,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.53,
+    "humedad": 52.0,
+    "temperatura": 20.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.43,
+    "humedad": 53.7,
+    "temperatura": 23.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.54,
+    "humedad": 82.0,
+    "temperatura": 12.8,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.54,
+    "humedad": 70.7,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.55,
+    "humedad": 72.9,
+    "temperatura": 12.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.31,
+    "humedad": 52.8,
+    "temperatura": 17.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.79,
+    "humedad": 65.6,
+    "temperatura": 20.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.62,
+    "humedad": 57.4,
+    "temperatura": 23.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.57,
+    "humedad": 42.6,
+    "temperatura": 12.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.91,
+    "humedad": 46.3,
+    "temperatura": 17.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.61,
+    "humedad": 42.1,
+    "temperatura": 16.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.03,
+    "humedad": 68.0,
+    "temperatura": 23.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.16,
+    "humedad": 52.5,
+    "temperatura": 20.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.75,
+    "humedad": 87.2,
+    "temperatura": 13.9,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.45,
+    "humedad": 40.4,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.52,
+    "humedad": 61.2,
+    "temperatura": 25.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.82,
+    "humedad": 66.3,
+    "temperatura": 23.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.28,
+    "humedad": 59.8,
+    "temperatura": 25.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.75,
+    "humedad": 44.4,
+    "temperatura": 12.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.55,
+    "humedad": 47.6,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.92,
+    "humedad": 79.4,
+    "temperatura": 16.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.35,
+    "humedad": 46.4,
+    "temperatura": 16.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.89,
+    "humedad": 56.4,
+    "temperatura": 20.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.26,
+    "humedad": 42.7,
+    "temperatura": 19.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.32,
+    "humedad": 54.6,
+    "temperatura": 20.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.39,
+    "humedad": 81.1,
+    "temperatura": 17.3,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.42,
+    "humedad": 76.1,
+    "temperatura": 12.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.82,
+    "humedad": 43.8,
+    "temperatura": 20.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.82,
+    "humedad": 86.1,
+    "temperatura": 16.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.15,
+    "humedad": 50.8,
+    "temperatura": 12.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.28,
+    "humedad": 86.9,
+    "temperatura": 17.9,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.22,
+    "humedad": 54.4,
+    "temperatura": 20.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.82,
+    "humedad": 54.1,
+    "temperatura": 19.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.51,
+    "humedad": 65.8,
+    "temperatura": 21.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.93,
+    "humedad": 49.8,
+    "temperatura": 21.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.58,
+    "humedad": 55.9,
+    "temperatura": 18.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.39,
+    "humedad": 71.2,
+    "temperatura": 12.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.16,
+    "humedad": 48.0,
+    "temperatura": 13.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.05,
+    "humedad": 73.3,
+    "temperatura": 11.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.65,
+    "humedad": 65.9,
+    "temperatura": 21.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.98,
+    "humedad": 61.9,
+    "temperatura": 24.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.33,
+    "humedad": 65.8,
+    "temperatura": 23.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.16,
+    "humedad": 87.6,
+    "temperatura": 16.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.29,
+    "humedad": 51.7,
+    "temperatura": 18.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.4,
+    "humedad": 44.7,
+    "temperatura": 18.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.85,
+    "humedad": 57.5,
+    "temperatura": 22.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.62,
+    "humedad": 59.9,
+    "temperatura": 20.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.33,
+    "humedad": 66.9,
+    "temperatura": 12.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.76,
+    "humedad": 51.0,
+    "temperatura": 16.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.45,
+    "humedad": 60.3,
+    "temperatura": 24.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.45,
+    "humedad": 40.3,
+    "temperatura": 15.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.35,
+    "humedad": 53.5,
+    "temperatura": 21.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.67,
+    "humedad": 87.9,
+    "temperatura": 11.0,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.82,
+    "humedad": 45.3,
+    "temperatura": 16.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.35,
+    "humedad": 44.5,
+    "temperatura": 20.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.76,
+    "humedad": 85.3,
+    "temperatura": 10.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.49,
+    "humedad": 53.5,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.35,
+    "humedad": 59.6,
+    "temperatura": 17.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.01,
+    "humedad": 52.2,
+    "temperatura": 18.9,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.44,
+    "humedad": 63.5,
+    "temperatura": 18.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.06,
+    "humedad": 69.8,
+    "temperatura": 18.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.94,
+    "humedad": 71.1,
+    "temperatura": 11.0,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.25,
+    "humedad": 45.9,
+    "temperatura": 21.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.34,
+    "humedad": 53.5,
+    "temperatura": 18.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.3,
+    "humedad": 87.7,
+    "temperatura": 10.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.24,
+    "humedad": 45.3,
+    "temperatura": 12.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.01,
+    "humedad": 73.8,
+    "temperatura": 16.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.33,
+    "humedad": 85.2,
+    "temperatura": 12.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.23,
+    "humedad": 58.4,
+    "temperatura": 21.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.83,
+    "humedad": 59.4,
+    "temperatura": 18.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.02,
+    "humedad": 61.8,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.56,
+    "humedad": 56.4,
+    "temperatura": 19.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.62,
+    "humedad": 47.1,
+    "temperatura": 17.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.6,
+    "humedad": 69.2,
+    "temperatura": 17.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.47,
+    "humedad": 45.7,
+    "temperatura": 15.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.53,
+    "humedad": 52.4,
+    "temperatura": 25.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.27,
+    "humedad": 52.6,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.03,
+    "humedad": 70.7,
+    "temperatura": 15.4,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.2,
+    "humedad": 65.1,
+    "temperatura": 13.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.13,
+    "humedad": 59.2,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.54,
+    "humedad": 51.9,
+    "temperatura": 24.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.22,
+    "humedad": 70.3,
+    "temperatura": 16.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.06,
+    "humedad": 58.4,
+    "temperatura": 21.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.38,
+    "humedad": 69.3,
+    "temperatura": 17.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.66,
+    "humedad": 50.2,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.7,
+    "humedad": 62.9,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.53,
+    "humedad": 60.9,
+    "temperatura": 24.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.42,
+    "humedad": 43.3,
+    "temperatura": 21.6,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.92,
+    "humedad": 42.1,
+    "temperatura": 16.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.41,
+    "humedad": 52.2,
+    "temperatura": 12.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.87,
+    "humedad": 61.4,
+    "temperatura": 21.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.69,
+    "humedad": 61.2,
+    "temperatura": 23.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.38,
+    "humedad": 45.5,
+    "temperatura": 16.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.89,
+    "humedad": 44.6,
+    "temperatura": 12.3,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.24,
+    "humedad": 68.4,
+    "temperatura": 10.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.44,
+    "humedad": 48.0,
+    "temperatura": 15.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.77,
+    "humedad": 63.7,
+    "temperatura": 25.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.81,
+    "humedad": 89.5,
+    "temperatura": 14.7,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.18,
+    "humedad": 51.5,
+    "temperatura": 24.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.86,
+    "humedad": 51.7,
+    "temperatura": 21.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.9,
+    "humedad": 68.2,
+    "temperatura": 21.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.41,
+    "humedad": 68.9,
+    "temperatura": 17.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.12,
+    "humedad": 86.7,
+    "temperatura": 17.8,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.6,
+    "humedad": 67.3,
+    "temperatura": 13.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.94,
+    "humedad": 56.1,
+    "temperatura": 20.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.79,
+    "humedad": 78.6,
+    "temperatura": 13.3,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.19,
+    "humedad": 62.0,
+    "temperatura": 25.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.66,
+    "humedad": 62.2,
+    "temperatura": 21.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.43,
+    "humedad": 55.9,
+    "temperatura": 15.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.2,
+    "humedad": 49.4,
+    "temperatura": 18.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.0,
+    "humedad": 72.4,
+    "temperatura": 12.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.08,
+    "humedad": 75.0,
+    "temperatura": 15.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.65,
+    "humedad": 63.2,
+    "temperatura": 20.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.02,
+    "humedad": 86.3,
+    "temperatura": 16.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.92,
+    "humedad": 49.9,
+    "temperatura": 19.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.81,
+    "humedad": 57.9,
+    "temperatura": 24.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.87,
+    "humedad": 74.9,
+    "temperatura": 16.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.39,
+    "humedad": 48.4,
+    "temperatura": 14.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.15,
+    "humedad": 85.1,
+    "temperatura": 12.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.67,
+    "humedad": 46.7,
+    "temperatura": 15.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.28,
+    "humedad": 43.7,
+    "temperatura": 15.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.43,
+    "humedad": 75.3,
+    "temperatura": 16.9,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.53,
+    "humedad": 69.0,
+    "temperatura": 25.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.13,
+    "humedad": 61.1,
+    "temperatura": 18.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.19,
+    "humedad": 78.3,
+    "temperatura": 13.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.44,
+    "humedad": 83.7,
+    "temperatura": 12.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.85,
+    "humedad": 53.6,
+    "temperatura": 17.6,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.4,
+    "humedad": 47.8,
+    "temperatura": 17.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.05,
+    "humedad": 41.4,
+    "temperatura": 19.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.33,
+    "humedad": 53.4,
+    "temperatura": 14.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.04,
+    "humedad": 55.2,
+    "temperatura": 20.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.06,
+    "humedad": 88.6,
+    "temperatura": 16.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.51,
+    "humedad": 88.9,
+    "temperatura": 18.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.27,
+    "humedad": 82.3,
+    "temperatura": 12.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.53,
+    "humedad": 72.6,
+    "temperatura": 12.2,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.09,
+    "humedad": 52.1,
+    "temperatura": 19.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.34,
+    "humedad": 72.5,
+    "temperatura": 14.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.5,
+    "humedad": 45.9,
+    "temperatura": 21.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.24,
+    "humedad": 68.3,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.2,
+    "humedad": 56.9,
+    "temperatura": 16.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.64,
+    "humedad": 67.5,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.82,
+    "humedad": 50.1,
+    "temperatura": 23.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.62,
+    "humedad": 46.6,
+    "temperatura": 13.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.09,
+    "humedad": 83.6,
+    "temperatura": 16.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.9,
+    "humedad": 70.6,
+    "temperatura": 15.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.12,
+    "humedad": 73.2,
+    "temperatura": 12.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.29,
+    "humedad": 52.3,
+    "temperatura": 22.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.1,
+    "humedad": 55.8,
+    "temperatura": 23.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.32,
+    "humedad": 57.8,
+    "temperatura": 20.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.53,
+    "humedad": 55.9,
+    "temperatura": 19.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.37,
+    "humedad": 51.6,
+    "temperatura": 13.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.08,
+    "humedad": 59.9,
+    "temperatura": 18.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.09,
+    "humedad": 80.1,
+    "temperatura": 16.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.06,
+    "humedad": 69.4,
+    "temperatura": 17.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.11,
+    "humedad": 44.9,
+    "temperatura": 18.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.8,
+    "humedad": 72.9,
+    "temperatura": 12.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.25,
+    "humedad": 52.0,
+    "temperatura": 19.9,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.38,
+    "humedad": 41.4,
+    "temperatura": 15.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.3,
+    "humedad": 50.6,
+    "temperatura": 13.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.62,
+    "humedad": 76.4,
+    "temperatura": 10.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.98,
+    "humedad": 63.9,
+    "temperatura": 22.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.14,
+    "humedad": 46.5,
+    "temperatura": 18.5,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.05,
+    "humedad": 66.3,
+    "temperatura": 13.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.71,
+    "humedad": 53.6,
+    "temperatura": 15.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.09,
+    "humedad": 88.6,
+    "temperatura": 17.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.14,
+    "humedad": 78.0,
+    "temperatura": 12.3,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.06,
+    "humedad": 43.1,
+    "temperatura": 13.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.12,
+    "humedad": 40.4,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.06,
+    "humedad": 56.2,
+    "temperatura": 15.8,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.44,
+    "humedad": 63.9,
+    "temperatura": 18.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.52,
+    "humedad": 87.8,
+    "temperatura": 10.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.62,
+    "humedad": 65.9,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.92,
+    "humedad": 48.9,
+    "temperatura": 14.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.92,
+    "humedad": 64.2,
+    "temperatura": 23.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.08,
+    "humedad": 45.2,
+    "temperatura": 13.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.66,
+    "humedad": 51.7,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.02,
+    "humedad": 53.9,
+    "temperatura": 13.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.84,
+    "humedad": 52.8,
+    "temperatura": 12.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.0,
+    "humedad": 40.5,
+    "temperatura": 18.3,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.44,
+    "humedad": 63.9,
+    "temperatura": 23.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.91,
+    "humedad": 70.0,
+    "temperatura": 14.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.44,
+    "humedad": 43.5,
+    "temperatura": 18.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.35,
+    "humedad": 66.8,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.91,
+    "humedad": 53.0,
+    "temperatura": 22.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.15,
+    "humedad": 81.9,
+    "temperatura": 13.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.92,
+    "humedad": 57.2,
+    "temperatura": 24.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.87,
+    "humedad": 53.0,
+    "temperatura": 19.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.02,
+    "humedad": 72.8,
+    "temperatura": 11.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.78,
+    "humedad": 59.9,
+    "temperatura": 15.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.85,
+    "humedad": 62.5,
+    "temperatura": 23.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.0,
+    "humedad": 52.8,
+    "temperatura": 15.8,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.56,
+    "humedad": 47.6,
+    "temperatura": 17.9,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.23,
+    "humedad": 41.9,
+    "temperatura": 18.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.12,
+    "humedad": 43.1,
+    "temperatura": 16.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.24,
+    "humedad": 41.5,
+    "temperatura": 19.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.04,
+    "humedad": 72.5,
+    "temperatura": 15.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.03,
+    "humedad": 83.4,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.8,
+    "humedad": 83.6,
+    "temperatura": 17.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.81,
+    "humedad": 88.7,
+    "temperatura": 13.0,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.0,
+    "humedad": 83.1,
+    "temperatura": 15.8,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.89,
+    "humedad": 56.9,
+    "temperatura": 22.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.93,
+    "humedad": 64.5,
+    "temperatura": 25.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.37,
+    "humedad": 53.4,
+    "temperatura": 21.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.45,
+    "humedad": 67.2,
+    "temperatura": 24.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.13,
+    "humedad": 83.5,
+    "temperatura": 11.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.0,
+    "humedad": 59.1,
+    "temperatura": 20.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.66,
+    "humedad": 68.9,
+    "temperatura": 13.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.46,
+    "humedad": 54.3,
+    "temperatura": 15.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.43,
+    "humedad": 60.0,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.38,
+    "humedad": 50.1,
+    "temperatura": 26.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.66,
+    "humedad": 49.8,
+    "temperatura": 21.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.91,
+    "humedad": 51.9,
+    "temperatura": 19.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.03,
+    "humedad": 69.7,
+    "temperatura": 14.1,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.45,
+    "humedad": 69.0,
+    "temperatura": 17.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.29,
+    "humedad": 57.6,
+    "temperatura": 22.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.78,
+    "humedad": 41.3,
+    "temperatura": 20.4,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.23,
+    "humedad": 51.8,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.39,
+    "humedad": 68.7,
+    "temperatura": 11.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.31,
+    "humedad": 56.3,
+    "temperatura": 17.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.5,
+    "humedad": 77.1,
+    "temperatura": 13.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.1,
+    "humedad": 70.0,
+    "temperatura": 21.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.03,
+    "humedad": 80.8,
+    "temperatura": 16.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.17,
+    "humedad": 61.7,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.68,
+    "humedad": 81.7,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.93,
+    "humedad": 83.4,
+    "temperatura": 12.7,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.28,
+    "humedad": 82.1,
+    "temperatura": 12.3,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.27,
+    "humedad": 59.1,
+    "temperatura": 16.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.56,
+    "humedad": 76.1,
+    "temperatura": 11.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.62,
+    "humedad": 49.0,
+    "temperatura": 13.8,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.59,
+    "humedad": 54.0,
+    "temperatura": 18.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.44,
+    "humedad": 85.0,
+    "temperatura": 15.4,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.9,
+    "humedad": 69.4,
+    "temperatura": 11.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.45,
+    "humedad": 51.2,
+    "temperatura": 17.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.54,
+    "humedad": 49.1,
+    "temperatura": 18.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.87,
+    "humedad": 75.2,
+    "temperatura": 15.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.03,
+    "humedad": 85.8,
+    "temperatura": 13.2,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.02,
+    "humedad": 59.9,
+    "temperatura": 15.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.19,
+    "humedad": 74.6,
+    "temperatura": 17.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.75,
+    "humedad": 71.6,
+    "temperatura": 10.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.76,
+    "humedad": 55.4,
+    "temperatura": 21.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.96,
+    "humedad": 58.6,
+    "temperatura": 16.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.65,
+    "humedad": 61.1,
+    "temperatura": 22.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.16,
+    "humedad": 45.0,
+    "temperatura": 17.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.49,
+    "humedad": 73.5,
+    "temperatura": 14.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.09,
+    "humedad": 50.4,
+    "temperatura": 18.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.19,
+    "humedad": 43.5,
+    "temperatura": 20.3,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.68,
+    "humedad": 53.7,
+    "temperatura": 19.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.53,
+    "humedad": 54.4,
+    "temperatura": 22.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.95,
+    "humedad": 66.5,
+    "temperatura": 25.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.99,
+    "humedad": 75.0,
+    "temperatura": 10.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.5,
+    "humedad": 41.2,
+    "temperatura": 21.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.17,
+    "humedad": 55.1,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.25,
+    "humedad": 53.7,
+    "temperatura": 21.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.1,
+    "humedad": 50.7,
+    "temperatura": 19.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.55,
+    "humedad": 55.9,
+    "temperatura": 18.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.93,
+    "humedad": 58.7,
+    "temperatura": 21.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.27,
+    "humedad": 67.9,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.1,
+    "humedad": 62.1,
+    "temperatura": 23.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.41,
+    "humedad": 43.9,
+    "temperatura": 20.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.84,
+    "humedad": 58.8,
+    "temperatura": 16.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.64,
+    "humedad": 70.8,
+    "temperatura": 14.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.19,
+    "humedad": 64.1,
+    "temperatura": 19.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.97,
+    "humedad": 67.5,
+    "temperatura": 19.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.45,
+    "humedad": 45.6,
+    "temperatura": 12.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.32,
+    "humedad": 66.8,
+    "temperatura": 18.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.82,
+    "humedad": 88.1,
+    "temperatura": 16.3,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.78,
+    "humedad": 87.0,
+    "temperatura": 13.8,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.81,
+    "humedad": 52.8,
+    "temperatura": 23.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.28,
+    "humedad": 53.3,
+    "temperatura": 20.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.48,
+    "humedad": 68.7,
+    "temperatura": 15.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.41,
+    "humedad": 45.1,
+    "temperatura": 19.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.65,
+    "humedad": 57.2,
+    "temperatura": 23.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.64,
+    "humedad": 59.7,
+    "temperatura": 22.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.99,
+    "humedad": 47.4,
+    "temperatura": 13.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.2,
+    "humedad": 80.2,
+    "temperatura": 16.0,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.95,
+    "humedad": 51.8,
+    "temperatura": 22.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.17,
+    "humedad": 51.9,
+    "temperatura": 18.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.56,
+    "humedad": 85.6,
+    "temperatura": 14.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.03,
+    "humedad": 47.8,
+    "temperatura": 14.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.56,
+    "humedad": 89.2,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.81,
+    "humedad": 60.6,
+    "temperatura": 20.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.15,
+    "humedad": 50.6,
+    "temperatura": 15.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.64,
+    "humedad": 45.1,
+    "temperatura": 19.7,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.97,
+    "humedad": 54.3,
+    "temperatura": 19.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.27,
+    "humedad": 85.4,
+    "temperatura": 13.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.07,
+    "humedad": 58.3,
+    "temperatura": 23.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.07,
+    "humedad": 69.3,
+    "temperatura": 25.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.22,
+    "humedad": 79.6,
+    "temperatura": 15.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.67,
+    "humedad": 82.9,
+    "temperatura": 15.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.02,
+    "humedad": 44.3,
+    "temperatura": 16.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.66,
+    "humedad": 67.6,
+    "temperatura": 23.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.2,
+    "humedad": 86.4,
+    "temperatura": 13.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.83,
+    "humedad": 51.1,
+    "temperatura": 13.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.66,
+    "humedad": 85.3,
+    "temperatura": 11.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.19,
+    "humedad": 48.8,
+    "temperatura": 12.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.98,
+    "humedad": 58.0,
+    "temperatura": 17.7,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.55,
+    "humedad": 88.2,
+    "temperatura": 17.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.43,
+    "humedad": 50.7,
+    "temperatura": 18.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.68,
+    "humedad": 69.9,
+    "temperatura": 14.4,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.13,
+    "humedad": 62.3,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.8,
+    "humedad": 43.8,
+    "temperatura": 17.3,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.03,
+    "humedad": 66.8,
+    "temperatura": 11.9,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.9,
+    "humedad": 73.5,
+    "temperatura": 10.9,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.38,
+    "humedad": 66.0,
+    "temperatura": 22.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.84,
+    "humedad": 59.2,
+    "temperatura": 19.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.5,
+    "humedad": 45.3,
+    "temperatura": 13.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.45,
+    "humedad": 65.7,
+    "temperatura": 17.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.6,
+    "humedad": 64.3,
+    "temperatura": 18.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.62,
+    "humedad": 52.9,
+    "temperatura": 17.1,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.07,
+    "humedad": 87.0,
+    "temperatura": 17.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.2,
+    "humedad": 72.5,
+    "temperatura": 10.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.39,
+    "humedad": 57.0,
+    "temperatura": 24.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.82,
+    "humedad": 52.5,
+    "temperatura": 21.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.12,
+    "humedad": 46.9,
+    "temperatura": 15.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.85,
+    "humedad": 58.7,
+    "temperatura": 15.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.12,
+    "humedad": 44.3,
+    "temperatura": 17.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.2,
+    "humedad": 51.7,
+    "temperatura": 14.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.17,
+    "humedad": 55.7,
+    "temperatura": 19.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.41,
+    "humedad": 49.6,
+    "temperatura": 19.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.16,
+    "humedad": 72.0,
+    "temperatura": 15.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.26,
+    "humedad": 42.9,
+    "temperatura": 12.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.09,
+    "humedad": 52.9,
+    "temperatura": 19.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.5,
+    "humedad": 80.7,
+    "temperatura": 11.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.38,
+    "humedad": 78.5,
+    "temperatura": 11.1,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.56,
+    "humedad": 58.1,
+    "temperatura": 17.2,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.2,
+    "humedad": 73.9,
+    "temperatura": 15.4,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.85,
+    "humedad": 88.2,
+    "temperatura": 15.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.07,
+    "humedad": 55.4,
+    "temperatura": 19.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.5,
+    "humedad": 55.6,
+    "temperatura": 15.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.32,
+    "humedad": 68.3,
+    "temperatura": 18.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.35,
+    "humedad": 69.8,
+    "temperatura": 18.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.35,
+    "humedad": 52.3,
+    "temperatura": 18.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.28,
+    "humedad": 48.5,
+    "temperatura": 15.7,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.19,
+    "humedad": 81.2,
+    "temperatura": 13.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.02,
+    "humedad": 55.0,
+    "temperatura": 25.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.05,
+    "humedad": 49.8,
+    "temperatura": 15.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.8,
+    "humedad": 49.0,
+    "temperatura": 20.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.83,
+    "humedad": 55.5,
+    "temperatura": 25.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.13,
+    "humedad": 51.5,
+    "temperatura": 12.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.86,
+    "humedad": 59.6,
+    "temperatura": 17.3,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.39,
+    "humedad": 57.7,
+    "temperatura": 12.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.13,
+    "humedad": 74.5,
+    "temperatura": 12.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.52,
+    "humedad": 65.8,
+    "temperatura": 18.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.06,
+    "humedad": 42.3,
+    "temperatura": 16.8,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.23,
+    "humedad": 71.2,
+    "temperatura": 14.5,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.56,
+    "humedad": 73.5,
+    "temperatura": 11.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.89,
+    "humedad": 66.9,
+    "temperatura": 24.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.99,
+    "humedad": 59.0,
+    "temperatura": 22.4,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.61,
+    "humedad": 66.0,
+    "temperatura": 22.8,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.58,
+    "humedad": 79.0,
+    "temperatura": 17.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.73,
+    "humedad": 49.6,
+    "temperatura": 18.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.39,
+    "humedad": 46.1,
+    "temperatura": 12.0,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.34,
+    "humedad": 45.0,
+    "temperatura": 15.8,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.33,
+    "humedad": 83.9,
+    "temperatura": 10.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.25,
+    "humedad": 40.2,
+    "temperatura": 13.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.87,
+    "humedad": 59.3,
+    "temperatura": 20.3,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.38,
+    "humedad": 83.6,
+    "temperatura": 17.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.32,
+    "humedad": 84.7,
+    "temperatura": 10.9,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.19,
+    "humedad": 85.8,
+    "temperatura": 16.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.07,
+    "humedad": 66.5,
+    "temperatura": 22.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.1,
+    "humedad": 53.9,
+    "temperatura": 19.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.82,
+    "humedad": 51.4,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.57,
+    "humedad": 62.5,
+    "temperatura": 22.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.67,
+    "humedad": 66.2,
+    "temperatura": 12.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.79,
+    "humedad": 52.8,
+    "temperatura": 15.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.63,
+    "humedad": 74.0,
+    "temperatura": 17.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.81,
+    "humedad": 68.7,
+    "temperatura": 22.0,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.3,
+    "humedad": 63.9,
+    "temperatura": 20.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.55,
+    "humedad": 81.0,
+    "temperatura": 14.2,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.16,
+    "humedad": 50.5,
+    "temperatura": 22.0,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.41,
+    "humedad": 62.3,
+    "temperatura": 22.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.02,
+    "humedad": 82.0,
+    "temperatura": 13.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 7.44,
+    "humedad": 45.5,
+    "temperatura": 18.1,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.85,
+    "humedad": 75.9,
+    "temperatura": 15.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.14,
+    "humedad": 49.2,
+    "temperatura": 13.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.73,
+    "humedad": 46.3,
+    "temperatura": 17.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.32,
+    "humedad": 68.3,
+    "temperatura": 12.3,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.9,
+    "humedad": 51.8,
+    "temperatura": 22.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.25,
+    "humedad": 52.4,
+    "temperatura": 22.0,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.27,
+    "humedad": 63.0,
+    "temperatura": 20.5,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.27,
+    "humedad": 52.6,
+    "temperatura": 20.1,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.13,
+    "humedad": 58.5,
+    "temperatura": 21.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.0,
+    "humedad": 78.9,
+    "temperatura": 14.7,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.48,
+    "humedad": 61.0,
+    "temperatura": 25.6,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.1,
+    "humedad": 42.8,
+    "temperatura": 13.9,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.06,
+    "humedad": 68.9,
+    "temperatura": 16.0,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.38,
+    "humedad": 60.7,
+    "temperatura": 25.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.61,
+    "humedad": 44.2,
+    "temperatura": 18.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.71,
+    "humedad": 63.9,
+    "temperatura": 23.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.28,
+    "humedad": 47.2,
+    "temperatura": 19.2,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.88,
+    "humedad": 63.7,
+    "temperatura": 19.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 7.41,
+    "humedad": 40.7,
+    "temperatura": 15.5,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.15,
+    "humedad": 52.0,
+    "temperatura": 23.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 5.56,
+    "humedad": 75.2,
+    "temperatura": 12.6,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.47,
+    "humedad": 72.8,
+    "temperatura": 12.7,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.24,
+    "humedad": 42.9,
+    "temperatura": 19.7,
+    "tipo_suelo": 0,
+    "region": "Boyacá",
+    "cultivo": 2
+  },
+  {
+    "ph": 7.33,
+    "humedad": 45.0,
+    "temperatura": 14.6,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.09,
+    "humedad": 87.1,
+    "temperatura": 17.2,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.29,
+    "humedad": 68.1,
+    "temperatura": 13.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.64,
+    "humedad": 83.1,
+    "temperatura": 17.5,
+    "tipo_suelo": 1,
+    "region": "Boyacá",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.08,
+    "humedad": 48.5,
+    "temperatura": 13.8,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.48,
+    "humedad": 82.9,
+    "temperatura": 10.6,
+    "tipo_suelo": 1,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.5,
+    "humedad": 67.4,
+    "temperatura": 13.4,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 5.31,
+    "humedad": 71.2,
+    "temperatura": 15.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 0
+  },
+  {
+    "ph": 6.62,
+    "humedad": 43.7,
+    "temperatura": 12.2,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 5.87,
+    "humedad": 64.2,
+    "temperatura": 21.2,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.09,
+    "humedad": 55.3,
+    "temperatura": 24.9,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.88,
+    "humedad": 50.4,
+    "temperatura": 19.4,
+    "tipo_suelo": 0,
+    "region": "Cundinamarca",
+    "cultivo": 2
+  },
+  {
+    "ph": 6.79,
+    "humedad": 54.5,
+    "temperatura": 23.5,
+    "tipo_suelo": 2,
+    "region": "Boyacá",
+    "cultivo": 1
+  },
+  {
+    "ph": 6.76,
+    "humedad": 69.5,
+    "temperatura": 19.1,
+    "tipo_suelo": 2,
+    "region": "Cundinamarca",
+    "cultivo": 1
+  }
+]

@@ -1,0 +1,195 @@
+{
+  "info": {
+    "_postman_id": "6f5d12a4-0ed9-4d42-91d8-agropredictia",
+    "name": "AgroPredict IA API",
+    "description": "Colección para consumir y probar la API de recomendación de cultivos de AgroPredict IA.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            ""
+          ]
+        },
+        "description": "Valida que la API esté funcionando."
+      },
+      "response": []
+    },
+    {
+      "name": "Predict - Papa",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"ph\": 5.5,\n  \"humedad\": 80,\n  \"temperatura\": 14,\n  \"tipo_suelo\": 1\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/predict",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "predict"
+          ]
+        },
+        "description": "Predicción esperada para condiciones favorables a papa."
+      },
+      "response": []
+    },
+    {
+      "name": "Predict - Maíz",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"ph\": 6.3,\n  \"humedad\": 62,\n  \"temperatura\": 23,\n  \"tipo_suelo\": 2\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/predict",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "predict"
+          ]
+        },
+        "description": "Predicción esperada para condiciones favorables a maíz."
+      },
+      "response": []
+    },
+    {
+      "name": "Predict - Trigo",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"ph\": 6.8,\n  \"humedad\": 48,\n  \"temperatura\": 17,\n  \"tipo_suelo\": 0\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/predict",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "predict"
+          ]
+        },
+        "description": "Predicción esperada para condiciones favorables a trigo."
+      },
+      "response": []
+    },
+    {
+      "name": "Validation - pH inválido",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"ph\": 15,\n  \"humedad\": 80,\n  \"temperatura\": 14,\n  \"tipo_suelo\": 1\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/predict",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "predict"
+          ]
+        },
+        "description": "Debe retornar error 422 porque el pH supera el rango permitido."
+      },
+      "response": []
+    },
+    {
+      "name": "Validation - tipo_suelo inválido",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"ph\": 5.8,\n  \"humedad\": 70,\n  \"temperatura\": 16,\n  \"tipo_suelo\": 5\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/predict",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "predict"
+          ]
+        },
+        "description": "Debe retornar error 422 porque tipo_suelo solo permite 0, 1 o 2."
+      },
+      "response": []
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:8000",
+      "type": "string"
+    }
+  ]
+}
